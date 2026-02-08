@@ -36,20 +36,20 @@ Como executar o projeto
     git clone https://github.com/seu-usuario/Explica-o-tema-e-publico-alvo-com-LangChain-e-Groq.git
 
   2.) Crie e ative um ambiente virtual (opcional)
-    python -m venv venv
-    source venv/bin/activate   # Linux/Mac
-    venv\Scripts\activate      # Windows
+      python -m venv venv
+      source venv/bin/activate   # Linux/Mac
+      venv\Scripts\activate      # Windows
 
   3.) Instale as dependências
-    pip install langchain langchain-groq python-dotenv
+      pip install langchain langchain-groq python-dotenv
 
   4.) Configure sua chave da Groq
-    Crie um arquivo .env:
+      Crie um arquivo .env:
 
-      GROQ_API_KEY=sua_chave_aqui
+        GROQ_API_KEY=sua_chave_aqui
 
   5.) Execute o script
-    python main.py
+      python main.py
 
 Alterando o tema analisado
 Você pode facilmente mudar o conteúdo gerado alterando os valores do PromptTemplate:
