@@ -1,4 +1,4 @@
-# explica-o-tema-e-publico-alvo-LangChain e Groq
+# Explica-o-tema-e-publico-alvo-LangChain e Groq
 
 - Este projeto demonstra como utilizar LangChain para criar um sistema simples de explicação de conceitos, onde o tema e o público-alvo são definidos dinamicamente. O objetivo é mostrar, na prática, como estruturar prompts reutilizáveis e profissionais, indo além do uso direto de APIs de IA.
 - O foco está em educação, clareza de respostas e boas práticas de Prompt Engineering com Python.
