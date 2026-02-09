@@ -5,10 +5,10 @@
 
 
 Como a IA responde:
-A IA recebe um prompt estruturado por meio de um PromptTemplate, que define:
+* A IA recebe um prompt estruturado por meio de um PromptTemplate, que define:
 - qual é o tema a ser explicado
 - para quem a explicação deve ser direcionada
-Com isso, o modelo gera respostas mais adequadas ao nível do público informado, tornando o conteúdo mais acessível e contextualizado.
+* Com isso, o modelo gera respostas mais adequadas ao nível do público informado, tornando o conteúdo mais acessível e contextualizado.
 
 
 Tecnologias e conceitos utilizados
