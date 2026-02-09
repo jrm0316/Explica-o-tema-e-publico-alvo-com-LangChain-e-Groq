@@ -24,10 +24,15 @@ Tecnologias e conceitos utilizados
 
 Estrutura do projeto
 projeto/
+
 │
+
 ├── main.py                # Código principal
+
 ├── .env                   # Contém a GROQ_API_KEY
+
 ├── requirements.txt       # Dependências do projeto
+
 └── README.md              # Documentação
 
 
