@@ -32,6 +32,7 @@ projeto/
 
 
 Como executar o projeto
+
   1.) Clone o repositório
     git clone https://github.com/seu-usuario/Explica-o-tema-e-publico-alvo-com-LangChain-e-Groq.git
 
