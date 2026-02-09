@@ -4,7 +4,7 @@
 - O foco está em educação, clareza de respostas e boas práticas de Prompt Engineering com Python.
 
 
-Como a IA responde
+Como a IA responde:
 A IA recebe um prompt estruturado por meio de um PromptTemplate, que define:
 - qual é o tema a ser explicado
 - para quem a explicação deve ser direcionada
